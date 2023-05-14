@@ -5,5 +5,5 @@ import {router} from './routes'
 import './style.css'
 
 ReactDOM.createRoot(document.getElementById('root')).render(
-    <RouterProvider router={router}/>
+        <RouterProvider router={router}/>
 )
